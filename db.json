@@ -1,8 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "AccessToken": "qwerty",
+      "CompanyName": "My Company",
+      "FacilityName": "Here",
+      "SmartReference":"12345"
     }
   ],
   "profile": {
