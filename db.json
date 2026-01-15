@@ -7,6 +7,14 @@
       "SmartReference":"12345"
     }
   ],
+  "config": [
+    {
+      "Key": 2,
+      "CompanyName": "My Company",
+      "FacilityName": "Here",
+      "SmartReference":"12345"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
